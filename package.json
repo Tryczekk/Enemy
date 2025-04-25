@@ -1,0 +1,22 @@
+{
+  "name": "mObywatel",
+  "version": "1.0.0",
+  "description": "mObywatel.",
+  "main": "id.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "PWA",
+    "iOS",
+    "home screen",
+    "web app"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
