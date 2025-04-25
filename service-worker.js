@@ -1,5 +1,5 @@
 mObywatel
-├── assets
+├── ustawienia
 │   ├── manifest.json
 │   └── service-worker.js
 ├── src
