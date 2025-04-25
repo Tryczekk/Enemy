@@ -1,1 +1,1 @@
-# bbbinc
+# Prosty Edukacyjny skrypt pomagający w nauce
